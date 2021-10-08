@@ -67,3 +67,33 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+src/Android/Debug/classes.dex
+src/Android/Debug/colors.xml
+src/Android/Debug/Nubank/AndroidManifest.xml
+src/Android/Debug/Nubank/classes/classes.dex
+src/Android/Debug/Nubank/library/lib/armeabi-v7a/gdbserver
+src/Android/Debug/Nubank/res/drawable-hdpi/ic_launcher.png
+src/Android/Debug/Nubank/res/drawable-hdpi/ic_notification.png
+src/Android/Debug/Nubank/res/drawable-large/splash_image.png
+src/Android/Debug/Nubank/res/drawable-ldpi/ic_launcher.png
+src/Android/Debug/Nubank/res/drawable-mdpi/ic_launcher.png
+src/Android/Debug/Nubank/res/drawable-mdpi/ic_notification.png
+src/Android/Debug/Nubank/res/drawable-normal/splash_image.png
+src/Android/Debug/Nubank/res/drawable-small/splash_image.png
+src/Android/Debug/Nubank/res/drawable-xhdpi/ic_launcher.png
+src/Android/Debug/Nubank/res/drawable-xhdpi/ic_notification.png
+src/Android/Debug/Nubank/res/drawable-xlarge/splash_image.png
+src/Android/Debug/Nubank/res/drawable-xxhdpi/ic_launcher.png
+src/Android/Debug/Nubank/res/drawable-xxhdpi/ic_notification.png
+src/Android/Debug/Nubank/res/drawable-xxxhdpi/ic_launcher.png
+src/Android/Debug/Nubank/res/drawable-xxxhdpi/ic_notification.png
+src/Android/Debug/Nubank/res/drawable/splash_image_def.xml
+src/Android/Debug/Nubank/res/values-v21/styles.xml
+src/Android/Debug/Nubank/res/values/colors.xml
+src/Android/Debug/Nubank/res/values/strings.xml
+src/Android/Debug/Nubank/res/values/styles.xml
+src/Android/Debug/splash_image_def.xml
+src/Android/Debug/strings.xml
+src/Android/Debug/styles-v21.xml
+src/Android/Debug/styles.xml
+src/Android/Debug/AndroidManifest.xml
